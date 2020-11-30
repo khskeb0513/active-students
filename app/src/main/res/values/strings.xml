@@ -1,54 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">부산고등학교</string>
-    <string name="title_home">부산고등학교는</string>
-    <string name="title_dashboard">간략히</string>
-    <string name="title_notifications">재학생 코너</string>
-    <string name="tv_home_title">부산고등학교</string>
-    <string name="tv_home_subtitle">지역과 어우진 참된 학생을 기르는 학교</string>
-    <string name="tv_home_description">역사와 전통에 빛나는 부산고등학교의 홈페이지 방문을 진심으로 환영합니다.\n우리 학교는 1946년 제1회 졸업생을 시작으로 72회에 걸쳐 총 3만2천 여 명의 훌륭한 인재를 배출한, 우리나라의 대표적인 명문고등학교입니다.\n또한, 교육이 미래를 꿈꿀 수 있는 희망이 될 수 있도록 500여 명의 학생들이 미래사회의 핵심역량을 키워가고 있는 꿈의 산실입니다.\n전통의 명문 부산고등학교가 더욱 큰 도약을 통해 위대한 명품 부산고등학교를 이루고, \'배우는 기쁨과 가르치는 보람으로 꿈을 키워가는 교실, 모두가 행복한 학교\'를 구현할 수 있도록 학생, 학부모, 교직원 여러분의 적극적인 협조와 아낌없는 성원을 부탁드립니다.</string>
-    <string name="tv_home_content_source">- 부산고등학교 홈페이지 발췌</string>
-    <string name="tv_home_gongsi_title">학교공시정보</string>
-    <string name="tv_home_gongsi_contents">정보를 불러오고 있습니다.</string>
-    <string name="iv_school_junkyung">학교 전경</string>
-    <string name="data_load_kr">정보를 불러오고 있습니다.</string>
-    <string name="scan_barcode_kr">양식을 채운 뒤, 학생증 뒤 바코드를\n인식하여 주십시오.</string>
-    <string name="today1">오늘 아침</string>
-    <string name="today2">오늘 점심</string>
-    <string name="today3">오늘 저녁</string>
-    <string name="tomorrow1">내일 아침</string>
-    <string name="tomorrow2">내일 점심</string>
-    <string name="tomorrow3">내일 저녁</string>
-    <string name="_00_00">00:00</string>
-    <string name="_1">1차지각은</string>
-    <string name="_2">2차지각은</string>
-    <string name="_today">오늘의 등교시간은 다음과 같습니다.</string>
-    <string name="tv_dashboard_meal_title">급식 메뉴</string>
-    <string name="_1_end">부터이며,</string>
-    <string name="_2_end">부터입니다.</string>
-    <string name="tv_notifications_merit_title">벌점 열람</string>
-    <!-- Preference Titles -->
+    <string name="app_name">Busan High School</string>
+    <string name="title_home">Busan HS is</string>
+    <string name="title_notifications">for Students</string>
+    <string name="tv_home_title">Busan High School</string>
+    <string name="tv_home_subtitle">A school that raises true students in harmony with the region</string>
+    <string name="tv_home_description">We sincerely welcome you to visit the homepage of Busan High School that shines in history and tradition. Our school is a representative high school in Korea that has produced a total of 32,000 talented people over 72 times, starting with the first graduate in 1946. In addition, it is the birthplace of dreams where 500 students are developing the core competencies of the future society so that education can become a hope to dream of the future. With the active cooperation of students, parents, and faculty, so that the prestigious and prestigious Busan High School of the tradition can achieve a great luxury Busan High School through a bigger leap forward, and realize a\'classroom where dreams are raised with the joy of learning and the reward of teaching, a school where everyone is happy.\' We ask for your generous support.</string>
+    <string name="title_dashboard">Briefly</string>
+    <string name="tv_home_content_source">- from Busan HS website</string>
+    <string name="tv_home_gongsi_title">School Disclosure Information</string>
+    <string name="tv_home_gongsi_contents">Information is being loaded.</string>
+    <string name="data_load_kr">Information is being loaded.</string>
+    <string name="iv_school_junkyung">School view</string>
+    <string name="scan_barcode_kr">After filling out the form, read the barcode on the back of your student ID card.</string>
+    <string name="today1">Today Breakfast</string>
+    <string name="today2">Today Lunch</string>
+    <string name="today3">Today Dinner</string>
+    <string name="tomorrow1">Tomorrow Breakfast</string>
+    <string name="tomorrow2">Tomorrow Lunch</string>
+    <string name="tomorrow3">Tomorrow Dinner</string>
+    <string name="_1">1st late time is starts at</string>
+    <string name="_2">2nd late time is starts at</string>
+    <string name="_today">Today\'s school hours are as follows.</string>
+    <string name="tv_dashboard_meal_title">Meal menu</string>
+    <string name="_1_end">" "</string>
+    <string name="_2_end">" "</string>
+    <string name="tv_notifications_merit_title">Penalty score</string>
     <string name="messages_header">Messages</string>
     <string name="sync_header">Sync</string>
-
-    <!-- Messages Preferences -->
     <string name="signature_title">Your signature</string>
     <string name="reply_title">Default reply action</string>
-
-    <!-- Sync Preferences -->
     <string name="sync_title">Sync email periodically</string>
     <string name="attachment_title">Download incoming attachments</string>
-    <string name="attachment_summary_on">Automatically download attachments for incoming emails
-    </string>
+    <string name="attachment_summary_on">"Automatically download attachments for incoming emails     "</string>
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
-    <string name="action_bar_contribution">기여</string>
+    <string name="action_bar_contribution">Contribution</string>
     <string name="action_bar_api">API</string>
     <string name="action_bar_haksa">e-haksa</string>
     <string name="api_url">https://khskeb0513.gitbook.io/busanhs-api/</string>
     <string name="contribution_url">https://khskeb0513.gitbook.io/busanhs-api/want-to-contribution</string>
     <string name="haksa_url">https://school.busanhs.xyz</string>
-    <string name="barcode_scan_please">바코드 스캔</string>
-    <string name="input_name">이름</string>
-    <string name="input_num">번호</string>
-    <string name="input_class">반</string>
-    <string name="warning_not_to_late">지각 조심하세요.</string>
+    <string name="barcode_scan_please">Scan barcode</string>
+    <string name="input_name">Name</string>
+    <string name="input_num">No</string>
+    <string name="input_class">Class</string>
+    <string name="warning_not_to_late">Be careful of being late.</string>
 </resources>
