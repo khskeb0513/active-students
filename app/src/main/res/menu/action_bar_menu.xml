@@ -11,4 +11,9 @@
         android:id="@+id/action_bar_contribution"
         android:title="@string/action_bar_contribution"
         app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bar_haksa"
+        android:title="@string/action_bar_haksa"
+        app:showAsAction="never" />
 </menu>

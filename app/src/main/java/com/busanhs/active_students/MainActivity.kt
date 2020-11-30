@@ -49,6 +49,11 @@ class MainActivity : AppCompatActivity() {
                     Intent(Intent.ACTION_VIEW, Uri.parse(resources.getString(R.string.api_url)))
                 startActivity(intent)
             }
+            R.id.action_bar_haksa -> {
+                val intent =
+                    Intent(Intent.ACTION_VIEW, Uri.parse(resources.getString(R.string.haksa_url)))
+                startActivity(intent)
+            }
         }
         return super.onOptionsItemSelected(item)
     }
