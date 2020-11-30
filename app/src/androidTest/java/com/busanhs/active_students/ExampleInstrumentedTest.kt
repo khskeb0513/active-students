@@ -1,12 +1,16 @@
 package com.busanhs.active_students
 
+import android.util.Log
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
+import com.busanhs.active_students.api.RetrofitService
+import com.busanhs.active_students.ui.home.HomeViewModel
 
 import org.junit.Test
 import org.junit.runner.RunWith
 
 import org.junit.Assert.*
+import kotlin.reflect.typeOf
 
 /**
  * Instrumented test, which will execute on an Android device.
@@ -17,8 +21,7 @@ import org.junit.Assert.*
 class ExampleInstrumentedTest {
     @Test
     fun useAppContext() {
-        // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.active_students", appContext.packageName)
+        assertEquals("com.busanhs.active_students", appContext.packageName)
     }
 }
