@@ -87,7 +87,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginEnd="@dimen/fragment_content_margin"
                     android:ems="10"
-                    android:hint="@string/imput_num"
+                    android:hint="@string/input_num"
                     android:importantForAutofill="no"
                     android:inputType="number"
                     android:maxLength="1" />

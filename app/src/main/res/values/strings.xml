@@ -42,11 +42,13 @@
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
     <string name="action_bar_contribution">기여</string>
     <string name="action_bar_api">API</string>
+    <string name="action_bar_haksa">e-haksa</string>
     <string name="api_url">https://khskeb0513.gitbook.io/busanhs-api/</string>
     <string name="contribution_url">https://khskeb0513.gitbook.io/busanhs-api/want-to-contribution</string>
+    <string name="haksa_url">https://school.busanhs.xyz</string>
     <string name="barcode_scan_please">바코드 스캔</string>
     <string name="input_name">이름</string>
-    <string name="imput_num">번호</string>
+    <string name="input_num">번호</string>
     <string name="input_class">반</string>
     <string name="warning_not_to_late">지각 조심하세요.</string>
 </resources>
